@@ -5,3 +5,6 @@ ro.product.mod_device    u:object_r:build_prop:s0
 # Hardware
 ro.hardware.chipname    u:object_r:build_prop:s0
 ro.hardware.alter    u:object_r:build_prop:s0
+
+# Sensors
+persist.sensor.sardisable                                u:object_r:vendor_sensors_prop:s0
