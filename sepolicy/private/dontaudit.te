@@ -1,0 +1,6 @@
+dontaudit vdc self:capability kill;
+dontaudit fsck self:capability kill;
+dontaudit odrefresh self:capability kill;
+dontaudit linkerconfig self:capability kill;
+dontaudit zygote self:capability kill;
+dontaudit isolated_app content_capture_service:service_manager find;
