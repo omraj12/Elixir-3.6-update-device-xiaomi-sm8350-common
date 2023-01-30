@@ -16,6 +16,23 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
+# Log
+persist.log.tag.CVP=S
+persist.log.tag.CamX=S
+persist.log.tag.SYNX-UMD=S
+persist.log.tag.CHIUSECASE=S
+persist.log.tag.ANDR-PERF-RESOURCE=S
+persist.log.tag.ANDR-PERF-RESOURCEQS=S
+persist.log.tag.ANDR-PERF-OPTSHANDLER=S
+persist.log.tag.ANDR-PERF-UTIL=S
+persist.log.tag.ANDR-PERF-MPCTL=S
+persist.log.tag.CpuPowerCalculator=S
+persist.log.tag.ResourcesCompat=S
+persist.log.tag.QC-time-services=S
+persist.log.tag.OMXNodeInstance=S
+persist.log.tag.ziparchive=S
+persist.log.tag.StrictMode=S
+
 # Media
 media.aac_51_output_enabled=true
 media.stagefright.enable-aac=true
