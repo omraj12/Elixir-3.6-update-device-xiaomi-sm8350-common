@@ -82,6 +82,15 @@ function blob_fixup() {
         vendor/lib64/hw/camera.qcom.so)
             sed -i "s/\x73\x74\x5F\x6C\x69\x63\x65\x6E\x73\x65\x2E\x6C\x69\x63/\x63\x61\x6D\x65\x72\x61\x5F\x63\x6E\x66\x2E\x74\x78\x74/g" "${2}"
             ;;
+                vendor/etc/libnfc-nci.conf)
+            cat << EOF >> "${2}"
+#########################################################################
+# Mifare Tag implementation
+# 0: General implementation
+# 1: Legacy implementation
+LEGACY_MIFARE_READER=1
+EOF
+            ;;
     esac
 }
 
