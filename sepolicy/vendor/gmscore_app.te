@@ -1,16 +1,9 @@
-# Audio
-get_prop(platform_app, audio_config_prop);
-
-# Face Unlock
-get_prop(platform_app, vendor_camera_prop)
-
-# FPS info
-allow platform_app vendor_sysfs_graphics:dir search;
-allow platform_app vendor_sysfs_graphics:file r_file_perms;
+# Incremental
+get_prop(gmscore_app, incremental_prop)
 
 # To get signature of an APK installed on Incremental File System, and fill in data
 # blocks and get the filesystem state
-allowxperm platform_app apk_data_file:file ioctl {
+allowxperm gmscore_app apk_data_file:file ioctl {
   INCFS_IOCTL_READ_SIGNATURE
   INCFS_IOCTL_FILL_BLOCKS
   INCFS_IOCTL_GET_FILLED_BLOCKS
@@ -24,9 +17,3 @@ allowxperm platform_app apk_data_file:file ioctl {
   FS_IOC_SETFLAGS
   FS_IOC_GETFLAGS
 };
-
-# Incremental
-get_prop(platform_app, incremental_prop)
-
-# Zram
-r_dir_file(platform_app, sysfs_zram)
