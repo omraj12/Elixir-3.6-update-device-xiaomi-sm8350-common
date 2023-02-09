@@ -1,6 +1,10 @@
 # Audio
 get_prop(platform_app, audio_config_prop);
 
+# Miui Camera
+get_prop(platform_app, vendor_camera_sensor_prop);
+get_prop(platform_app, vendor_fp_prop)
+
 # Face Unlock
 get_prop(platform_app, vendor_camera_prop)
 
