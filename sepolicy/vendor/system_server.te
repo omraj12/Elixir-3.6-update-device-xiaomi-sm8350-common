@@ -3,3 +3,8 @@ allow system_server vendor_sysfs_battery_supply:file r_file_perms;
 
 # allow system_server to access vendor camera property.
 get_prop(system_server, vendor_camera_prop)
+
+# Allow system process to measure fs-verity for apps, apps being installed and system files
+allowxperm system_server system_file:file ioctl {
+  FS_IOC_MEASURE_VERITY
+};
