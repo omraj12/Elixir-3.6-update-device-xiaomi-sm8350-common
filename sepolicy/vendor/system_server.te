@@ -8,3 +8,6 @@ get_prop(system_server, vendor_camera_prop)
 allowxperm system_server system_file:file ioctl {
   FS_IOC_MEASURE_VERITY
 };
+
+# App zygote
+allow system_server app_zygote:process getpgid;
