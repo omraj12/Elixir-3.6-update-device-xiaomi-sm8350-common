@@ -3,3 +3,7 @@ allow vendor_init proc_watermark_scale_factor:file w_file_perms;
 
 # Allow vendor_init to read vendor_media_performance_class
 get_prop(vendor_init, vendor_media_performance_class);
+
+set_prop(vendor_init, vendor_fp_prop)
+set_prop(vendor_init, vendor_fp_info_prop)
+set_prop(vendor_init, vendor_thermal_normal_prop)
