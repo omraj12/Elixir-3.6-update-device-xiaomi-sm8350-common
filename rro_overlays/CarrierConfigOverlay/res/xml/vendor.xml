@@ -565,8 +565,20 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 	<carrier_config mcc="270" mnc="99">
 		<boolean name="fallback_sms_not_allowed_in_roaming" value="true" />
 	</carrier_config>
+	<carrier_config mcc="286" mnc="01">
+		<boolean name="carrier_volte_available_bool" value="true" />
+		<boolean name="carrier_wfc_ims_available_bool" value="true" />
+		<boolean name="carrier_vt_available_bool" value="false" />
+	</carrier_config>
 	<carrier_config mcc="286" mnc="02">
 		<boolean name="carrier_volte_available_bool" value="true" />
+		<boolean name="carrier_wfc_ims_available_bool" value="true" />
+		<boolean name="carrier_vt_available_bool" value="false" />
+	</carrier_config>
+	<carrier_config mcc="286" mnc="03">
+		<boolean name="carrier_volte_available_bool" value="true" />
+		<boolean name="carrier_wfc_ims_available_bool" value="true" />
+		<boolean name="carrier_vt_available_bool" value="false" />
 	</carrier_config>
 	<carrier_config mcc="405" mnc="840">
 		<boolean name="carrier_vt_available_bool" value="true" />
