@@ -584,7 +584,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -615,7 +615,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -646,7 +646,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -677,7 +677,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -708,7 +708,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -739,7 +739,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -770,7 +770,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -801,7 +801,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -832,7 +832,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -863,7 +863,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -894,7 +894,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -925,7 +925,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -956,7 +956,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -987,7 +987,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1018,7 +1018,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1049,7 +1049,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1080,7 +1080,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1111,7 +1111,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1142,7 +1142,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1173,7 +1173,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1204,7 +1204,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
@@ -1235,7 +1235,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
 		<boolean name="carrier_vt_available_bool" value="true" />
 		<boolean name="carrier_wfc_ims_available_bool" value="true" />
         <boolean name="vonr_enabled_bool" value="true" />
-		<boolean name="editable_wfc_mode_bool" value="false" />
+		<boolean name="editable_wfc_mode_bool" value="true" />
 		<int name="carrier_default_wfc_ims_mode_int" value="2" />
 		<boolean name="video_call_use_ext" value="false" />
 		<boolean name="use_custom_video_ui" value="true" />
